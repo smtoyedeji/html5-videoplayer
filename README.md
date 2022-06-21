@@ -11,6 +11,6 @@ Day 11 challenge of 21-days coding challenge
 
 
 
-Project link: [HTML5 Video Player](https://smtoyedeji.github.io/javascript21-11.github.io/)
+Project link: [HTML5 Video Player](https://smtoyedeji.github.io/html5-videoplayer/)
 
 
